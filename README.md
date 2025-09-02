@@ -6,9 +6,8 @@
 
 # New repository for bnh, click whatsapp logo
 
-## [![WhatsApp bot](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Cyberkingcr7/bnhh) 
-## N.B 
-USING add, remove and abnormal commands will get banned. Suijin is not responsible for you getting banned
+](https://github.com/Cyberkingcr7/bnhh) 
+# N.B 
 > A Fully Modular and Efficient Bot <br>
 
 
